@@ -1,0 +1,1 @@
+git clone https://scm.umbraco.io/euwest01/keagans-diplomatic-koala.git CloudTrial.Web
